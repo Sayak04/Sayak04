@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayak04&label=Profile%20views&color=0e75b6&style=flat" alt="sayak04" /> </p>
 
-- 🌱 I’m currently learning **jQuery, Python**, ReactJS**
+- 🌱 I’m currently learning **jQuery, Python**
 
 - 💬 Ask me about **DSA, CP, C++, JavaScript, CSS**
 
